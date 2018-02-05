@@ -3,7 +3,7 @@
 
 # Live Demo
 
-  [https://letsconnect.co/p2p/] (https://letsconnect.co/p2p/)
+  [http://letsconnct-port-letsconnect.193b.starter-ca-central-1.openshiftapps.com/p2p/] (http://letsconnct-port-letsconnect.193b.starter-ca-central-1.openshiftapps.com/p2p/)
 
 # Features
 - Polymer Framework
